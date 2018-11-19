@@ -1,8 +1,8 @@
 ﻿  cal.cpp
-e:\2018_autumn\c++\exp_2\exp_2\cal.cpp(206): warning C4018: “<”: 有符号/无符号不匹配
-e:\2018_autumn\c++\exp_2\exp_2\cal.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
-e:\2018_autumn\c++\exp_2\exp_2\cal.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
-e:\2018_autumn\c++\exp_2\exp_2\cal.cpp(164): warning C4715: “Token_stream::get”: 不是所有的控件路径都返回值
-e:\2018_autumn\c++\exp_2\exp_2\cal.cpp(209): warning C4715: “get_value”: 不是所有的控件路径都返回值
-e:\2018_autumn\c++\exp_2\exp_2\cal.cpp(273): warning C4715: “primary”: 不是所有的控件路径都返回值
-  exp_2.vcxproj -> E:\2018_autumn\C++\exp_2\Debug\exp_2.exe
+e:\2018_autumn\c++\c++\exp_2\exp_2\cal.cpp(206): warning C4018: “<”: 有符号/无符号不匹配
+e:\2018_autumn\c++\c++\exp_2\exp_2\cal.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+e:\2018_autumn\c++\c++\exp_2\exp_2\cal.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
+e:\2018_autumn\c++\c++\exp_2\exp_2\cal.cpp(209): warning C4715: “get_value”: 不是所有的控件路径都返回值
+e:\2018_autumn\c++\c++\exp_2\exp_2\cal.cpp(164): warning C4715: “Token_stream::get”: 不是所有的控件路径都返回值
+e:\2018_autumn\c++\c++\exp_2\exp_2\cal.cpp(273): warning C4715: “primary”: 不是所有的控件路径都返回值
+  exp_2.vcxproj -> E:\2018_autumn\C++\C++\exp_2\Debug\exp_2.exe

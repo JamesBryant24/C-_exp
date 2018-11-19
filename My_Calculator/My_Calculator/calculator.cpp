@@ -30,7 +30,7 @@ void cal(void) {
 				if (b != 0)
 					cout << "the answer is " << a/b<< "\n\n";
 				else
-					cout << "做除法时除数不能为0\n";
+					cout << "做除法时除数不能为0\n\n";
 				break;
 			case '-':
 		        cout << "the answer is " << a - b << "\n\n";
